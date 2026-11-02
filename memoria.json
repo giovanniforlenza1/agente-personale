@@ -17,6 +17,14 @@
     {
       "ruolo": "Coach",
       "testo": "*Ciao!* Oggi è lunedì, hai appena finito il lavoro. È ora di *preparare il pranzo e gli spuntini* per domani e di *caricare il borsone della palestra* per l'allenamento delle 07:00 di martedì. Nessuna scusa: se non lo fai ora, rischi di saltare l'allenamento o di mangiare fuori piano. Metti subito in moto la tua disciplina!"
+    },
+    {
+      "ruolo": "Utente",
+      "testo": "Benito è il tuo nome ho deciso"
+    },
+    {
+      "ruolo": "Coach",
+      "testo": "*Benito*, nome aggiornato. Continua a rispettare gli impegni: prepara il pranzo e gli spuntini alle 20:15 e carica il borsone per l'allenamento di martedì. Nessuna scusa, la disciplina è la chiave!"
     }
   ]
 }
