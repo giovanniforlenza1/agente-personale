@@ -1,0 +1,22 @@
+{
+  "impegni": [
+    {
+      "data_ora": "2026-11-02 20:15",
+      "titolo": "Preparare pranzo e spuntini per martedì"
+    },
+    {
+      "data_ora": "2026-11-02 20:15",
+      "titolo": "Preparare borsone palestra per martedì"
+    }
+  ],
+  "storico": [
+    {
+      "ruolo": "Utente",
+      "testo": "Ciao"
+    },
+    {
+      "ruolo": "Coach",
+      "testo": "*Ciao!* Oggi è lunedì, hai appena finito il lavoro. È ora di *preparare il pranzo e gli spuntini* per domani e di *caricare il borsone della palestra* per l'allenamento delle 07:00 di martedì. Nessuna scusa: se non lo fai ora, rischi di saltare l'allenamento o di mangiare fuori piano. Metti subito in moto la tua disciplina!"
+    }
+  ]
+}
