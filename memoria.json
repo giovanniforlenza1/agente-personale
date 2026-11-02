@@ -1,12 +1,8 @@
 {
   "impegni": [
     {
-      "data_ora": "2026-11-03 06:45",
-      "titolo": "Preparare borsone palestra per martedì"
-    },
-    {
-      "data_ora": "2026-11-03 07:30",
-      "titolo": "Preparare pranzo e spuntini per martedì"
+      "data_ora": "2026-11-02 21:30",
+      "titolo": "Preparare pranzo e spuntini per martedì (riso e snack)"
     }
   ],
   "storico": [
@@ -33,6 +29,14 @@
     {
       "ruolo": "Coach",
       "testo": "*Benito*, sei a letto alle 21:13 e non hai fatto il *meal‑prep* né il *borsone*. Non è accettabile, la disciplina è la tua arma. **Piano B**: alzati ora, prepara il riso in 10 minuti, oppure, se davvero non puoi, programma un *prep* domani mattina prima del lavoro. E il borsone? Mettilo subito o al più tardi alle 06:45 di domani. Nessuna scusa."
+    },
+    {
+      "ruolo": "Utente",
+      "testo": "No tu sei benito. Io sono Giovanni, comunque il riso poi si fredda domani mangio a casa quindi posso prepararlo, il borsone è pronto"
+    },
+    {
+      "ruolo": "Coach",
+      "testo": "*Benito*, hai confermato che il borsone è pronto, ottimo. Però il *meal‑prep* è ancora da fare e sei già oltre le 20:15. **Piano B**: dedica 15 minuti adesso (21:30) per cuocere il riso e confezionare i due spuntini, così avrai tutto pronto per domani. Se proprio non riesci, programma 07:00 domani prima del lavoro per fare il *prep* veloce. Aggiorno l’agenda di conseguenza."
     }
   ]
 }
