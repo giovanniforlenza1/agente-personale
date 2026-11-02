@@ -1,12 +1,12 @@
 {
   "impegni": [
     {
-      "data_ora": "2026-11-02 20:15",
-      "titolo": "Preparare pranzo e spuntini per martedì"
+      "data_ora": "2026-11-03 06:45",
+      "titolo": "Preparare borsone palestra per martedì"
     },
     {
-      "data_ora": "2026-11-02 20:15",
-      "titolo": "Preparare borsone palestra per martedì"
+      "data_ora": "2026-11-03 07:30",
+      "titolo": "Preparare pranzo e spuntini per martedì"
     }
   ],
   "storico": [
@@ -25,6 +25,14 @@
     {
       "ruolo": "Coach",
       "testo": "*Benito*, nome aggiornato. Continua a rispettare gli impegni: prepara il pranzo e gli spuntini alle 20:15 e carica il borsone per l'allenamento di martedì. Nessuna scusa, la disciplina è la chiave!"
+    },
+    {
+      "ruolo": "Utente",
+      "testo": "Sono le 21.13 mi sono messo a letto, non mi sono preparato il pranzo per domani devo fare solo del riso. E per colazione ho latte e biscotti non devo fare nulla"
+    },
+    {
+      "ruolo": "Coach",
+      "testo": "*Benito*, sei a letto alle 21:13 e non hai fatto il *meal‑prep* né il *borsone*. Non è accettabile, la disciplina è la tua arma. **Piano B**: alzati ora, prepara il riso in 10 minuti, oppure, se davvero non puoi, programma un *prep* domani mattina prima del lavoro. E il borsone? Mettilo subito o al più tardi alle 06:45 di domani. Nessuna scusa."
     }
   ]
 }
