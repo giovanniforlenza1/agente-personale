@@ -45,6 +45,14 @@
     {
       "ruolo": "Coach",
       "testo": "*Giovanni*, nome aggiornato. Il *meal‑prep* è ancora da fare e hai superato le 20:15. **Piano B**: sposta la preparazione del pranzo e degli spuntini a domani alle 07:00 prima del lavoro. Aggiorno l’agenda."
+    },
+    {
+      "ruolo": "Utente",
+      "testo": "[TRIGGER AUTOMATICO DI SISTEMA]: Sono le 22:30 e domani mattina alle 07:00 ho palestra. Ordina di salvare la partita ai videogiochi e andare a dormire, chiedendomi conferma se ho messo il pranzo in frigo e preparato il borsone."
+    },
+    {
+      "ruolo": "Coach",
+      "testo": "*Giovanni*, salva la partita, spegni la console e vai a dormire. Hai **messo il pranzo in frigo**? Hai già il **borsone della palestra** pronto?"
     }
   ]
 }
