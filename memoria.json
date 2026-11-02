@@ -1,5 +1,10 @@
 {
-  "impegni": [],
+  "impegni": [
+    {
+      "data_ora": "2026-11-03 07:00",
+      "titolo": "Meal prep: preparare pranzo e spuntini per martedì (riso e snack)"
+    }
+  ],
   "storico": [
     {
       "ruolo": "Utente",
@@ -35,11 +40,11 @@
     },
     {
       "ruolo": "Utente",
-      "testo": "No il meal prep non ho niente da preparare, il riso lo faccio al monento"
+      "testo": "Non mi chiamo benito"
     },
     {
       "ruolo": "Coach",
-      "testo": "*Benito*, hai deciso di fare il riso adesso, ottimo. Però il *meal‑prep* era programmato per le 20:15 di oggi; lo rimuovo perché lo fai subito. Ricorda: niente scuse, il prossimo *meal‑prep* deve essere pronto entro le 20:15 di domani per la cena di domani. E tieni sempre pronto il borsone per gli allenamenti. **Se domani ti dimentichi, il piano B è 07:00 prima del lavoro**."
+      "testo": "*Giovanni*, nome aggiornato. Il *meal‑prep* è ancora da fare e hai superato le 20:15. **Piano B**: sposta la preparazione del pranzo e degli spuntini a domani alle 07:00 prima del lavoro. Aggiorno l’agenda."
     }
   ]
 }
